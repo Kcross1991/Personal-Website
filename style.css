@@ -1,3 +1,28 @@
-nav{
-    background-color: rgba(230, 165, 226, 0.882);
+body {
+  background-color: blueviolet;
+}
+nav {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+img {
+  width: 300px;
+    float: right;
+    margin: 10px 0 10px 10px;
+}
+h3 {
+  font-family: fantasy;
+  color: blue;
+  font-weight: 100;
+  font-size: 50;
+}
+h2{
+  font-family: fantasy;
+  color: blue;
+  font-weight: 100;
+  font-size: 50;
+  display:flex;
+  justify-content: flex-start;
 }
