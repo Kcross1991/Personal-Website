@@ -1,0 +1,28 @@
+body {
+    background-color: blueviolet;
+  }
+  nav {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+  }
+img {
+  width: 300px;
+  float: right;
+  margin: 10px 0 10px 10px;
+}
+
+h1{
+  font-family: fantasy;
+  color: blue;
+  font-weight: 100;
+  font-size: 90;
+  font-stretch: expanded;
+}
+h2{
+  font-family:cursive;
+  color: blue;
+  font-weight: 10;
+  font-size: 20;
+}  
