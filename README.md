@@ -3,3 +3,4 @@ My motivation for this project was to learn how to make a website. It is also co
 I built this project to help test my skill on the tags and elements I have learned in the past two weeks.
 This website was made for people to understand who I am
 I learned a lot more things about tags work and how how to group elements together.
+It has several pages including the home page,about page,portfoio page, and the contact page.
