@@ -1,5 +1,11 @@
 body {
   background-color: blueviolet;
+  min-height: 100vh;
+    padding: 85px 24px 96px;
+    box-shadow: 0 0 12px -2px black;
+    color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
 }
 nav {
   justify-content: space-between;
@@ -17,6 +23,9 @@ h3 {
   color: blue;
   font-weight: 100;
   font-size: 50;
+  display:flex;
+  justify-content:center;
+  text-align: center
 }
 h2{
   font-family: fantasy;
@@ -32,5 +41,14 @@ form{
 }
 
 .Heading{
+  text-align: center;
+}
+h1{
+  font-family: fantasy;
+  color: blue;
+  font-weight: 100;
+  font-size: 50;
+  display:flex;
+  justify-content:center;
   text-align: center;
 }
