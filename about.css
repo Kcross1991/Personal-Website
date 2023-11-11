@@ -37,3 +37,10 @@ div {
 html{
   display: block;
 }
+/* Background will be yellow when the screen width max is 600px*/
+
+@media screen and (max-width: 600px) {
+  body {
+      background-color: yellow;
+  }
+}
